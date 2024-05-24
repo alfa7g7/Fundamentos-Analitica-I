@@ -9,7 +9,7 @@ TIC 60153 – Fundamentos Analítica I
 ## Grupo de trabajo:
 - Daniel Delgado Caicedo
 - Raúl Alberto Echeverry López
-- Luis Esteban Ordoñez
+- Luis Esteban Ordoñez Erazo
 - Fabian Salazar Figueroa
 
 
