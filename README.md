@@ -1,10 +1,10 @@
-# Fundamentos-Analitica-I
+# Fundamentos-Analítica-I-1er-semestre
 Repositorio de trabajos para la asignatura de la maestría en Ciencia de Datos
 
 FACULTAD DE INGENIERÍA, DISEÑO Y CIENCIAS 
 APLICADAS 
 MAESTRÍA EN CIENCIA DE DATOS 
-TIC 60153 – Fundamentos Análitica I 
+TIC 60153 – Fundamentos Analítica I 
 
 ## Grupo de trabajo:
 - Daniel Delgado Caicedo
