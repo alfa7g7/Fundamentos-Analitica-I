@@ -1,4 +1,18 @@
 # Fundamentos-Analitica-I
+Repositorio de trabajos para la asignatura de la maestría en Ciencia de Datos
+
+FACULTAD DE INGENIERÍA, DISEÑO Y CIENCIAS 
+APLICADAS 
+MAESTRÍA EN CIENCIA DE DATOS 
+TIC 60153 – Fundamentos Análitica I 
+
+## Grupo de trabajo:
+- Daniel Delgado Caicedo
+- Raúl Alberto Echeverry López
+- Luis Esteban Ordoñez
+- Fabian Salazar Figueroa
+
+
 El objetivo del presente proyecto es evaluar si se evidencian diferencias patognomónicas de acuerdo a la información recopilada en la base de datos sobre las pacientes que se hicieron el diagnóstico para el síndrome de ovario poliquistico (PCOS).
 
 
